@@ -6,6 +6,7 @@
 
 1. [jupyter notebook 강의 실습]( http://localhost:8888/lab )
 2. label
+[test.md](test.md)
 
 #day2
 
