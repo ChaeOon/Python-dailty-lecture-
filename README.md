@@ -4,7 +4,7 @@
 #day1
 
 
-1. jupyter notebook
+1. [jupyter notebook 강의 실습]( http://localhost:8888/lab )
 2. label
 
 #day2
