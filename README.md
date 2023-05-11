@@ -1,4 +1,4 @@
-# Python-dailty-lecture-
+# Python-dailty-lecture
 #파이썬 강의 정리 
 
 #day1
